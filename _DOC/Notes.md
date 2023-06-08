@@ -11,3 +11,5 @@ https://www.w3schools.com/js/js_variables.asp
 https://www.w3schools.com/js/js_let.asp
 https://www.w3schools.com/js/js_const.asp
 https://www.w3schools.com/js/js_operators.asp
+https://www.w3schools.com/js/js_arithmetic.asp
+https://www.w3schools.com/js/js_assignment.asp
