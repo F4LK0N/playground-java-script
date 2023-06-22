@@ -1,5 +1,5 @@
 //### DECLARATION ###
-//Allways declare variables.
+//Always declare variables.
 
 //Only use var if you MUST support old browsers.
 var devVarVariable = "";
