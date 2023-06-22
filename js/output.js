@@ -1,11 +1,11 @@
-//Overwrite Element HTMl
-document.getElementById("js-01-output").innerHTML = "Hello World!";
-
-//Overwrite All Document HTML
+//Document HTML
 //document.write("Overwrite all document HTML");
 
+//Element HTMl
+document.getElementById("section-id").innerHTML = "Hello ID Element!";
+
 //Alert Box
-//window.alert("Hello Alert!");
+window.alert("Hello Alert!");
 
 //Console
 console.log("Hello Console Log");
